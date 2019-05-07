@@ -2,7 +2,7 @@
 A public repository for a DCGAN (Deep Convoluted Generative Adverserial Network) implementation of synapse images from FAFB
 
 
-### The original training images of synapses were extracted from the Full Adult Female Brain dataset (Zheng _et al._, 2018, _Cell_: https://doi.org/10.1016/j.cell.2018.06.019), using pymaid (see https://pymaid.readthedocs.io/en/latest/)
+### The original training images of synapses were extracted from the Full Adult Female Brain dataset (Zheng _et al._, 2018, _Cell_: https://doi.org/10.1016/j.cell.2018.06.019), using pymaid (see https://pymaid.readthedocs.io/en/latest/). The DCGAN was created using PyTorch (see https://pytorch.org/)
 
 
 # Acknowledgements
